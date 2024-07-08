@@ -1,0 +1,28 @@
+Email	 Password	 IDCard	 AccountNumber	 Amount	 BranchName	 Type	 Name
+NarutoUzuamki@rocketmail.com,horserider12,123456789000123,1000000028,27800,UBL Bank ,Buisness Account,Naruto Uzumaki
+hannah.kelly@example.com,password123,3334445550,1000000025,250100,MCB Bank,Personal Account,Bot1000
+abigail.anderson@example.com,password123,9990001110,1000000024,150000,MCB Bank,Buisness Account,Abigail Brown
+joseph.thompson@example.com,password123,6667778880,1000000023,200000,Al-Bakrah Bank,Personal Account,Joseph Lee
+alexandra.martinez@example.com,password123,2223334440,1000000022,300000,UBL Bank,Buisness Account,Alexandra Martinez
+michael.lee@example.com,password123,7778889990,1000000021,100000,HBL Bank,Personal Account,Michael Wilson
+sophia.jackson@example.com,password123,4445556660,1000000020,250000,MCB Bank,Buisness Account,Sophia Gonzalez
+gabriel.harris@example.com,password123,8889990000,1000000019,150000,Al-Bakrah Bank,Personal Account,Gabriel Anderson
+lily.williams@example.com,password123,5556667770,1000000018,200000,UBL Bank,Buisness Account,Lily Thompson
+noah.allen@example.com,password123,3334445550,1000000017,300000,HBL Bank,Personal Account,Noah Jackson
+julia.king@example.com,password123,9990001110,1000000016,100000,MCB Bank,Buisness Account,Julia Harris
+isabella.robinson@example.com,password123,6667778880,1000000015,250000,Al-Bakrah Bank,Personal Account,Isabella Allen
+logan.parker@example.com,password123,2223334440,1000000014,150000,UBL Bank,Buisness Account,Logan King
+ava.garcia@example.com,password123,7778889990,1000000013,200000,HBL Bank,Personal Account,Ava Robinson
+benjamin.walker@example.com,password123,4445556660,1000000012,300000,MCB Bank,Buisness Account,Benjamin Parker
+olivia.martin@example.com,password123,8889990000,1000000011,100000,Al-Bakrah Bank,Personal Account,Olivia Garcia
+david.lewis@example.com,password123,5556667770,1000000010,250000,UBL Bank,Buisness Account,David Walker
+lisa.hall@example.com,password123,3334445550,1000000009,150000,HBL Bank,Personal Account,Lisa Martin
+kevin.white@example.com,password123,9990001110,1000000008,200000,MCB Bank,Buisness Account,Kevin Hall
+sarah.taylor@example.com,password123,6667778880,1000000007,300000,Al-Bakrah Bank,Personal Account,Sarah Lee
+emily.davis@example.com,password123,2223334440,1000000006,103000,UBL Bank,Buisness Account,Emily Taylor
+mike.brown@example.com,password123,7778889990,1000000005,250000,HBL Bank,Personal Account,Mike Davis
+alice.johnson@example.com,password123,4445556660,1000000004,150000,MCB Bank,Buisness Account,Alice Brown
+bob.smith@example.com,password123,1112223330,1000000003,200000,Al-Bakrah Bank,Personal Account,Bob Johnson
+jane.doe@example.com,password123,9876543210,1000000002,50000,UBL Bank,Buisness Account,Jane Smith
+john.doe@example.com,password123,1234567890,1000000001,100000,Al-Bakrah Bank,Personal Account,John Doe
+sameerbadar049@gmail.com,horserider12,123456789000000,1000000027,37900,HBL Bank,Buisness Account,Muhammad Sameer Badar
